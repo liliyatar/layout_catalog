@@ -119,10 +119,10 @@
     -webkit-box-direction: normal;
         -ms-flex-direction: row;
             flex-direction: row; }
-  .card__star--active {
-    background-image: url("../images/star-active.svg"); }
-  .card__star--no-active {
-    background-image: url("../images/star.svg"); }
+    .card__star--active {
+      background-image: url("../images/star-active.svg"); }
+    .card__star--no-active {
+      background-image: url("../images/star.svg"); }
   .card__feedback {
     display: inline-block;
     -webkit-box-pack: end;
